@@ -1,0 +1,40 @@
+The following proposal has been set forth for committee approval.  Voting for proposal is done in sections
+
+I.  The new coin will retain the name BOXY, The name is not related to the TICKER, Name has no affiliation with existing
+coin BOXY.
+
+a)  YES    b) NO
+
+II.  The new coin Ticker Symbol will be "BOXY"
+
+a)  YES    b) NO
+
+III.  Algorithm:  Algorithm of new coin specified will be asic resistant in one of two forms (block time 120 seconds), private send
+
+a)  Neoscrypt   b) equihash  c) Nist5
+
+IV.  Block Reward has been standardized at 30, with a percentage distribution of:    
+
+a)  50% PoS/ 50% PoW    b)    75% PoS/ 25% PoW    c)   65% PoS/ 35% PoW
+
+
+V.  Block Details:  Block Size:  10MB, Confirm for Transactions: 10, Confirms For Mined Blocks: 100
+
+a)  YES   b) NO
+
+VI.  Max Supply
+
+a)  20,000,000	b)  21,000,000   c) 25,000,000  
+
+
+VII.  Premine  premine used only for bounties, exchanges, and future projects
+
+a)  .2%     b) .3%
+
+VIII.  Collateral (Masternode collateral: TBD BOXY)
+
+a)  2500     b)   5000    c) 10000
+
+IV.   Coin Swap
+
+a) 1:1   b)  TBD
