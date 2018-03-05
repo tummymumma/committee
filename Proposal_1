@@ -17,6 +17,12 @@ IV.  Block Reward has been standardized at 30, with a percentage distribution of
 
 a)  50% PoS/ 50% PoW    b)    75% PoS/ 25% PoW    c)   65% PoS/ 35% PoW
 
+To Be Updated BY MasterAron
+Block reward structure:
+First 3 months: 50% PoW/50% PoS
+Months 3-6  75% PoS 25% PoW
+Months 6-12 90% PoS 10% PoW
+Months 12 On, Full PoS + MN
 
 V.  Block Details:  Block Size:  10MB, Confirm for Transactions: 10, Confirms For Mined Blocks: 100
 
